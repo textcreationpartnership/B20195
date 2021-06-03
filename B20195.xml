@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Childes catechism wherein the father questions his child, and instructs him to answer compendiously and substantially to all the necessary points of Christian doctrine.</title>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20195</idno><idno type="EEBO-CITATION">19210993</idno>
+  <idno type="VID">205421</idno>
+  <idno type="EEBO-PROQUEST">2240880610</idno>
+  
+            <idno type="STC">Wing C3875</idno>
+            <idno type="OCLC">19210993</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Childes catechism wherein the father questions his child, and instructs him to answer compendiously and substantially to all the necessary points of Christian doctrine.</title>
+               </titleStmt>
+               <extent>[6], 49 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Paris printed :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catechisms, English --  Early works to 1800.</term>
+               <term type="topical_term">Religious education of young people.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205421:1"/>
+            <pb facs="tcp:205421:1"/>
+            <p>THE CHILDES CATECHISM, WHEREIN The Father Questions his Child, and instructs him to Answer Compendiously and Substantially to all the ne<g ref="char:EOLhyphen"/>cessary points of <hi>Christian Doctrine.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Deut. 32.7.</hi>
+               </bibl>
+               <p>Ask thy Father, and he will shew thee.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Prov. 1.8.</hi>
+               </bibl>
+               <p>O my son, hear the instruction of thy Father.</p>
+            </q>
+            <p>
+               <hi>PARIS:</hi> Printed in the Year, 1678.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:205421:2"/>
+            <pb facs="tcp:205421:2"/>
+            <head>TO ALL Parents and Fathers OF FAMILIES.</head>
+            <p>
+               <hi>I</hi> Need not minde you, <hi>O Christi<g ref="char:EOLhyphen"/>an Parents!</hi> How deeply you stand engaged to provide for your Childrens spiritual as well as for their tempo<g ref="char:EOLhyphen"/>ral necessities. St. <hi>Pauls</hi> words are Positive; <hi>If any provide not for his own, and espccially for those of his own house; he hath deni<g ref="char:EOLhyphen"/>ed the Faith, and is worse then an Infidel, 1 Tim. 5.8.</hi> Think then seriously of the sad mistake of such Pa<g ref="char:EOLhyphen"/>rents, who heap up Treasures for the short and soon fading life of their Chil<g ref="char:EOLhyphen"/>drens <hi>bodies,</hi> and make no stock of provision for their <hi>souls,</hi> which are their immortal and much more consi<g ref="char:EOLhyphen"/>derable parts: And beware of trust<g ref="char:EOLhyphen"/>ing altogether to Tutors in an affair
+<pb facs="tcp:205421:3"/>of so high concern, but be you (at least sometimes) your own Childrens Examiners; applying to your selves that command which our Creator layes upon all Parents: <hi>Thou shalt teach these words diligently unto thy Children, and shalt talk of them when thou sittest in thy house, and when thou walkest in the way, and when thou liest down, and when thou risest up.</hi>
+            </p>
+            <p>Now to the end you may exactly know <hi>how,</hi> and easily have <hi>what</hi> to teach your Children; we put this Cate<g ref="char:EOLhyphen"/>chism into your hands, where you are to expect no new thing, either in matter or method, but the very self-same truths which were taught from the beginning of Christianity, (and which will undoubted<g ref="char:EOLhyphen"/>ly <hi>continue until the worlds finall consummation,</hi>) compendiously and plainly delivered, in words suited to each ones capacity.</p>
+            <p>Our chief Diligence and Industry in this Edition, consists in so cutting off all redundancies, as not to have omitted any
+<pb facs="tcp:205421:3"/>point which is absolutely necessary for eve<g ref="char:EOLhyphen"/>ry good Christians knowledge and practise.</p>
+            <p>Accept it as candidly as it is charita<g ref="char:EOLhyphen"/>bly offered by them, who herein aim on<g ref="char:EOLhyphen"/>ly at the Spiritual good of your Chil<g ref="char:EOLhyphen"/>dren, hoping, that if in their tender years they lay a solid Foundation of Faith, they may happily build thereupon in their riper age, the fair structure of sincere piety and perfection.</p>
+            <div type="prayer">
+               <head>A <hi>PRAYER</hi> at the Beginning of CATECHIZING.</head>
+               <p>COme (O Holy Ghost!) fill the Hearts of your faithful Children, and enkindle in them the fire of your love.</p>
+               <p>
+                  <hi>Let us Pray.</hi>
+               </p>
+               <p>ENlighten our mindes (we beseech you, O Lord!) with a beam of your Celestial Brightnesse, that we both be instructed what we ought to do, and also be enabled to perform it; through our Lord Jesus Christ, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:205421:4"/>
+               <head>A PRAYER At the end of CATECHIZING.</head>
+               <p>COnfirm (O God!) what you have wrought in us.</p>
+               <p>
+                  <hi>Let us Pray.</hi>
+               </p>
+               <p>GIve us (O Lord!) the help of your Heavenly Grace, to put those things in due execution, which we have learned of your Divine Re<g ref="char:EOLhyphen"/>velation; through our Lord Jesus Christ, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:205421:4"/>
+            <head>THE <hi>Childs Catechisme:</hi> OR A Compendious Declaration of the Christian Doctrine.</head>
+            <div n="1" type="lesson">
+               <head>Of the Name of Christian, and Christian Doctrine. <hi>The First Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>The Father.</speaker>
+                  <p>
+                     <hi>WHo may rightly be called a Chri<g ref="char:EOLhyphen"/>stian?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>The Child.</speaker>
+                  <p>He, who being baptized, believes in his heart, and professes with his mouth the Christian Doctrine.</p>
+               </sp>
+               <pb n="2" facs="tcp:205421:5"/>
+               <sp>
+                  <speaker>Father,</speaker>
+                  <p>
+                     <hi>What is the Christian Do<g ref="char:EOLhyphen"/>ctrine?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child,</speaker>
+                  <p>That which our Lord Jesu<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> taught when he liv'd with us upon earth; and which the Holy Catho<g ref="char:EOLhyphen"/>lick, Apostolick and Roman Church now teaches us.</p>
+               </sp>
+               <sp>
+                  <speaker>Father,</speaker>
+                  <p>
+                     <hi>Is it necessary for every one to know the Christian Doctrine?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child,</speaker>
+                  <p>Yes, if he will be saved.</p>
+               </sp>
+            </div>
+            <div n="2" type="lesson">
+               <head>Of the Signe of a Christian. <hi>The Second Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is the sign or badg of a Christian?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>It is the Holy Cross; for up<g ref="char:EOLhyphen"/>on it our Saviour redeemed all Chri<g ref="char:EOLhyphen"/>stians.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How do you make the sign of the Cross?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>By putting my right hand to my forehead, then bringing it down to my breast, thence to my left shoulder, and lastly to my right shoulder; say<g ref="char:EOLhyphen"/>ing,
+<pb n="3" facs="tcp:205421:5"/>
+                     <hi>In the Name of the Father, and of the Son, and of the Holy Ghost, Amen.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>Why make you the signe of the Cross after this manner?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>To put me in minde of the three principal Mysteries of our Faith. 1. Of the Unity of God, and Trinity of Per<g ref="char:EOLhyphen"/>sons. 2. Of the Incarnation of the se<g ref="char:EOLhyphen"/>cond Person, which is, the Son of God. 3. Of his Death and Passion upon the Cross for our Redemption.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>When are Christians to sign them<g ref="char:EOLhyphen"/>selves with the holy Cross?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>It is good to use it upon all occa<g ref="char:EOLhyphen"/>sions; because God bestows manifold gifts and graces by virtue of this Sign upon such as make it with faith, reve<g ref="char:EOLhyphen"/>rence and devotion: But it is to be made especially in the morning when we rise; At night when we go to bed; At the beginning and ending of our Prayers; and whensoever any fear seizes upon us, or any danger threat<g ref="char:EOLhyphen"/>ens us.</p>
+               </sp>
+            </div>
+            <div n="3" type="lesson">
+               <pb n="4" facs="tcp:205421:6"/>
+               <head>Of the End of Man. <hi>The Third Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>To what End was Mancreated?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>To know God, and by know<g ref="char:EOLhyphen"/>ledge to love, serve and obey him; and by this means to attain to eternal life and felicity.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>Wherein consists this eternal life and felicity?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>In the sight and enjoyment of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How many things are necessary for a Christian, to attain this happy End, and to save his Soul?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Five: to wit, Faith, Hope, Cha<g ref="char:EOLhyphen"/>ritie, Sacraments, Good Works.</p>
+               </sp>
+            </div>
+            <div n="4" type="lesson">
+               <head>
+                  <hi>Of Faith.</hi> The Fourth Lesson.</head>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How do you come to the knowledge of God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>By Faith.</p>
+               </sp>
+               <pb n="5" facs="tcp:205421:6"/>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>What is Faith.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Faith is a gift of God, whereby we believe in him, and all that he hath revealed to his Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>What hath God revealed to his Church?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Many truths, an abridgment whereof is contained in the twelve Ar<g ref="char:EOLhyphen"/>ticles of our Creed.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>Recite the Creed, or twelve Arti<g ref="char:EOLhyphen"/>cles of Faith.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p n="1">1. I believe in God the Father Al<g ref="char:EOLhyphen"/>mighty, Creator of heaven and earth.</p>
+                  <p n="2">2. And in Jesus Christ his only Son our Lord.</p>
+                  <p n="3">3. Who was conceived of the Holy Ghost, born of the Virgin <hi>Mary.</hi>
+                  </p>
+                  <p n="4">4. Suffered under <hi>Pontius Pilat,</hi> was crucified, dead, and buried.</p>
+                  <p n="5">5. He descended into Hell, and rose again the third day from the dead.</p>
+                  <p n="6">6. He ascended into Heaven, and sitteth at the right hand of God the Fa<g ref="char:EOLhyphen"/>ther Almighty.</p>
+                  <p n="7">7. From thence he shall come to judge the living and the dead.</p>
+                  <pb n="6" facs="tcp:205421:7"/>
+                  <p n="8">8. I believe in the holy Ghost.</p>
+                  <p n="9">9. The holy Catholick Church the Communion of Saints.</p>
+                  <p n="10">10. The Remission of sins.</p>
+                  <p n="11">11. The Resurrection of the flesh.</p>
+                  <p n="12">12. Life everlasting, <hi>Amen.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>Are all things which are necessary for every Christian to believe, contained in this Creed.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Yes, either directly, or as de<g ref="char:EOLhyphen"/>pending upon it.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>Who made the Creed?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>The twelve Apostles before they dispersed themselves to preach the holy Gospel throughout the whole world, to the end they might all teach the self same Faith and Doctrine.</p>
+               </sp>
+            </div>
+            <div n="5" type="lesson">
+               <head>Of God in Unity and Trinity. <hi>The fifth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>You say you believe in God, What is God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>God is the Creator of Heaven and Earth, and the universal Lord of all things.</p>
+               </sp>
+               <pb n="7" facs="tcp:205421:7"/>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>What is the sacred Trinity?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>It is the Father, the Son and the Holy Ghost, three Persons in one only God. So that the Father is God, the Son is God, and the Holy Ghost is God; and yet there are not three Gods, but one God in three Persons.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>What is the summe of your belief concerning our Saviour Jesus Christ.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>I believe him to be the Son of God, as Powerful, as Wise, as Good as his Father; that he became Man for our sakes in the womb of the imma<g ref="char:EOLhyphen"/>culate Virgin <hi>Mary;</hi> and consequently that he is true God and true Man: And that by his death and Passion he delive<g ref="char:EOLhyphen"/>red us from the pains of hell, and pur<g ref="char:EOLhyphen"/>chased for us an eternal Life and feli<g ref="char:EOLhyphen"/>city.</p>
+               </sp>
+            </div>
+            <div n="6" type="lesson">
+               <head>
+                  <hi>Of the Church.</hi> The sixth Lesson.</head>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>You say you believe the Church, What is it?</hi>
+                  </p>
+               </sp>
+               <pb n="8" facs="tcp:205421:8"/>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>The Church is the Congregati<g ref="char:EOLhyphen"/>on of all the faithful Christians.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How may we know the true Church?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>By her four Infallible Marks; which are, One, Holy, Catholick, and Apostolick.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How is the Church One?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Because all her Members are u<g ref="char:EOLhyphen"/>nited to their Head in the self-same Faith and Sacraments.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How is the Church Holy?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Because the teaches nothing but what is Holy, both as to Faith and Man<g ref="char:EOLhyphen"/>ners, and consequently brings Her obedient children to Sanctity?</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How is the Church Catholick or Uni<g ref="char:EOLhyphen"/>versal?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Because she hath been ever visi<g ref="char:EOLhyphen"/>ble, and is still every where extended.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How is the Church Apostolical?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Because Christs Apostles foun<g ref="char:EOLhyphen"/>ded her, and their Successors continue her, especially the Pope; who with<g ref="char:EOLhyphen"/>out interruption, hath remained Head of the Church, from the time of St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> successively, till this present (and
+<pb n="9" facs="tcp:205421:8"/>now sitting <hi>Innocent</hi> the XI.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>What do you briefly collect from this Doctrine?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p n="1">1. That there can be but one on<g ref="char:EOLhyphen"/>ly true Church. 2. That out of this Church can be no salvation. 3. That this Church is guided by the Holy Ghost; and therefore cannot erre. 4. That our Lord Jesus is her invisible Head, and our holy Father the Pope is her visible Head, and Christs Vicar upon earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>What in brief is every Christian bound to believe?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>He must believe in general, what the Church believes and teaches; and in particular, all that is contained in the Twelve Articles of the Creed.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>What is every Christian bound to know?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>He is bound to know three things: First, What he is to believe, which is contained in the Creed. Se<g ref="char:EOLhyphen"/>condly, What he is to do, which is comprized in the Commandments of God and the Church. Thirdly,
+<pb n="10" facs="tcp:205421:9"/>What he is to pray for, which is com<g ref="char:EOLhyphen"/>prehended in the <hi>Pater Noster.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="7" type="lesson">
+               <head>
+                  <hi>Of Hope.</hi> The seventh Lesson.</head>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>Which is the second thing necessary for a Christian?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Hope: which is a gift of God, whereby we expect with a certain humble confidence, the salvation of our souls, and all the promised good things of the other life.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How are these good things obtained?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>Prayer is one of the most efficaci<g ref="char:EOLhyphen"/>ous means to obtain them.</p>
+               </sp>
+               <sp>
+                  <speaker>Fa.</speaker>
+                  <p>
+                     <hi>How do you pray unto God?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ch.</speaker>
+                  <p>I place my self humbly and reve<g ref="char:EOLhyphen"/>rently in the divine presence, and say devoutly as our Saviour hath taught all Christians;</p>
+                  <p n="1">1. <hi>Our Father which art in Heaven, hallowed be thy Name.</hi>
+                  </p>
+                  <p n="2">2. <hi>Thy Kingdom come.</hi>
+                  </p>
+                  <pb n="11" facs="tcp:205421:9"/>
+                  <p n="3">3. <hi>Thy will be done in Earth, as it is in Heaven.</hi>
+                  </p>
+                  <p n="4">4. <hi>Give us this day our daily bread.</hi>
+                  </p>
+                  <p n="5">5. <hi>And forgive us our trespasses, as we forgive them that trespass against us.</hi>
+                  </p>
+                  <p n="6">6. <hi>And leade us not into temptation.</hi>
+                  </p>
+                  <p n="7">7. <hi>But deliver us from evil.</hi> Amen.</p>
+               </sp>
+            </div>
+            <div n="8" type="lesson">
+               <head>Of Prayers to Saints. <hi>The Eight Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Do you not also pray to the Saints?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Childe.</speaker>
+                  <p>Yes; for they being now Gods friends, have more power, and are fuller of charity, then when they lived upon earth, and therefore know<g ref="char:EOLhyphen"/>ing our necessities, are moved to assist us by their intercessions.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>To what Saints do you daily recommend your self?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Childe.</speaker>
+                  <p>To our Blessed Lady, to my Angel-Guardian, and to the Saint whose Name I bear.</p>
+               </sp>
+               <pb n="12" facs="tcp:205421:10"/>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What Prayer do you present to our Blessed Lady?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>The <hi>Ave Maria</hi> or Angeli<g ref="char:EOLhyphen"/>cal salutation, whereby I gratefully commemorate the benefit of Christ our Saviours Incarnation, saying.</p>
+                  <p n="1">1. <hi>Hail</hi> Mary, <hi>full of Grace, our Lord is with thee.</hi>
+                  </p>
+                  <p n="2">2. <hi>Blessed art thou above all women, and blessed is the fruit of thy Womb Jesus.</hi>
+                  </p>
+                  <p n="3">3. <hi>Holy</hi> Mary, <hi>Mother of God, pray for us sinners, now, and at the hour of our death.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Who made this</hi> Ave-Maria <hi>or</hi> Hail-Mary?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>The Angel <hi>Gabriel</hi> pronoun<g ref="char:EOLhyphen"/>ced the first part, Saint <hi>Elizabeth</hi> the second; and the Church added the third.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What Prayer do you present to your good Angel?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Blessed Angel! to whose care and custody, our loving Crea<g ref="char:EOLhyphen"/>tor hath committed me; defend me this day, I beseech you from all dan<g ref="char:EOLhyphen"/>gers,
+<pb n="13" facs="tcp:205421:10"/>and direct me in the way I ought to walk.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What Prayer do you present to the Saint, whose Name you bear?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Glorious St. <hi>N.</hi> whom the Divine providence hath allotted for my Pattern upon Earth, and my Pa<g ref="char:EOLhyphen"/>tron in Heaven: Obtain (I beseech you) for me your poor Pupil, so to imitate here your Vertues, that I may hereafter be made partaker of your glory.</p>
+               </sp>
+            </div>
+            <div n="9" type="lesson">
+               <head>Of Reliques, Pictures, and Purgatory. <hi>The nineth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Are the Reliques of Saints to be honoured?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Yes: because they were formerly the living Temples of the Holy Ghost; and will be hereafter glorious in Heaven for all eternity.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Are the Images of Saints al<g ref="char:EOLhyphen"/>so to be honoured?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Yes: because they were formerly the living Temples of the Holy Ghost; and will be hereafter glorious in Heaven for all eternity.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Are the Images of Saints al<g ref="char:EOLhyphen"/>so to be honoured?</hi>
+                  </p>
+               </sp>
+               <pb n="14" facs="tcp:205421:11"/>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Yes: for they putting us in minde of such heroick persons as are absent from our eyes, provoke us therewithal to the imitation of their heroick vertues; and we who are faithfull Christians, beholding the Picture, honour that which it represents, without fixing our thoughts upon the wood, stone, and colours, as did formerly the prophane Idola<g ref="char:EOLhyphen"/>ters.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>For whom do you pray?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>I pray not only for my own particular self, but also for my Pa<g ref="char:EOLhyphen"/>rents, Friends, and Benefactors; for my King, Country, and the whole Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Should we also pray for the Souls in Purgatory?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Yes: for they being mem<g ref="char:EOLhyphen"/>bers of the Universal Church, which contains as well the Church suffering, as Church Militant, and Triumphant, ought not to be deprived of a Com<g ref="char:EOLhyphen"/>munion with their Fellow-mem<g ref="char:EOLhyphen"/>bers.</p>
+               </sp>
+               <pb n="15" facs="tcp:205421:11"/>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is Purgatory?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>It is the place, where Souls departing in Gods grace, pay such punishments as remain due for their sins.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>In what manner then do you pray for them?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>That God in mercy will be pleased to mitigate their pains, and admit them speedily to his beatifying presence.</p>
+               </sp>
+            </div>
+            <div n="10" type="lesson">
+               <head>
+                  <hi>Of Charity.</hi> The Tenth Lesson.</head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Which is the third thing ne<g ref="char:EOLhyphen"/>cessary for a Christian?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Charity; which is a gift of God, whereby we love him above all things, and our neighbour as our selves for his sake.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How do you love God above all things?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>I love him more than my
+<pb n="16" facs="tcp:205421:12"/>goods, my parents, or even my own self; so as I would rather dye than offend his divine Majesty.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many are the Precepts of perfect Charity?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Two; the first, To love God with our whole heart, soul, and strength: The second, To love our neighbour as our selves.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How can you love your neigh<g ref="char:EOLhyphen"/>bour as your self?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>By wishing him the same good which I desire to my self, and doing for him as I would for my self.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many are the Precepts of the Law of Nature?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Childe.</speaker>
+                  <p>Two. The first, Thou shalt not do to thy neighbour, what thou wouldst not have him do to thee. The second, Thou shalt do to thy neighbour, what thou wouldst have him to do to thee.</p>
+               </sp>
+            </div>
+            <div n="11" type="lesson">
+               <pb n="17" facs="tcp:205421:12"/>
+               <head>Of the Ten Commandments. <hi>The Eleventh Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>How doth one make it appear, that he loves God?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>By keeping his Command<g ref="char:EOLhyphen"/>ments.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>How many and which are they?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>They are Ten in number, which God gave to</hi> Moses <hi>upon Mount</hi> Sina.</p>
+                  <p>
+                     <hi>The first Commandment.</hi>
+                  </p>
+                  <p>Thou shalt have no other God, but me.</p>
+                  <p>
+                     <hi>The second Commandment.</hi>
+                  </p>
+                  <p>Thou shalt not take the Name of God in vain.</p>
+                  <p>
+                     <hi>The third Commandment.</hi>
+                  </p>
+                  <p>Thou shalt keep holy the Sabbath day.</p>
+                  <p>
+                     <hi>The fourth Commandment.</hi>
+                  </p>
+                  <p>Thou shalt honour thy Father and Mo<g ref="char:EOLhyphen"/>ther.</p>
+                  <pb n="18" facs="tcp:205421:13"/>
+                  <p>
+                     <hi>The fifth Commandment.</hi>
+                  </p>
+                  <p>Thou shalt not kill.</p>
+                  <p>
+                     <hi>The sixth Commandment.</hi>
+                  </p>
+                  <p>Thou shalt not commit adultery.</p>
+                  <p>
+                     <hi>The seventh Commandment.</hi>
+                  </p>
+                  <p>Thou shalt not steal.</p>
+                  <p>
+                     <hi>The eighth Commandment.</hi>
+                  </p>
+                  <p>Thou shalt not bear false witness a<g ref="char:EOLhyphen"/>gainst thy Neighbour.</p>
+                  <p>
+                     <hi>The nineth Commandment.</hi>
+                  </p>
+                  <p>Thou shalt not covet thy neighbours wife.</p>
+                  <p>
+                     <hi>The tenth Commandment.</hi>
+                  </p>
+                  <p>Thou shalt not covet thy neighbours goods.</p>
+               </sp>
+            </div>
+            <div n="12" type="lesson">
+               <head>Of the Six Commandments of the Church. <hi>The Twelfth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>Are we bound to keep any more Commandments, besides these Ten?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>Yes: The Six Command<g ref="char:EOLhyphen"/>ments of the Church, which is our
+<pb n="19" facs="tcp:205421:13"/>holy Mother, and the true Spouse of Christ our Saviour; and there<g ref="char:EOLhyphen"/>fore ought to be obeyed.</hi>
+                  </p>
+                  <p n="1">
+                     <hi>1.</hi> To keep all Sundays, and such Ho<g ref="char:EOLhyphen"/>lidays as are appointed, by hearing Mass (if we have opportunity) and forbearing to work.</p>
+                  <p n="2">
+                     <hi>2.</hi> To keep abstinence, and Fasting days appointed; that is, To fast <hi>Lent,</hi> such Vigils as are commanded, Ember days, and also Fridays by the custom of our Countrey (except between the Nati<g ref="char:EOLhyphen"/>vity of our Saviour, and the Epiphany and between <hi>Easter</hi> and the Ascension,) with abstinence from flesh upon Saturdays, St. <hi>Marks</hi> day, and the three days be<g ref="char:EOLhyphen"/>fore the Ascension.</p>
+                  <p n="3">
+                     <hi>3.</hi> To confess our sins once a year to our Pastor.</p>
+                  <p n="4">
+                     <hi>4.</hi> To communicate once a year, and that about the time of <hi>Easter,</hi> that is, betwixt Palm-Sunday and Low-Sunday.</p>
+                  <p n="5">
+                     <hi>5.</hi> To pay Tythes to our Pastor.</p>
+                  <p n="6">
+                     <hi>6.</hi> Not to solemnize Marriage at for<g ref="char:EOLhyphen"/>bidden times, that is, From Advent-Sunday, till Twelf-day be past, nor from
+<pb n="20" facs="tcp:205421:14"/>Ash-Wednesday, till Low-Sunday be past.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>What reward shall they re<g ref="char:EOLhyphen"/>ceive tho keep the Commandments of God and his Church?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>Eternal life, which is a life exempt from all that is evil, and re<g ref="char:EOLhyphen"/>plenished with all good things.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>What punishment must they expect who transgress them?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>Eternal death and damnati<g ref="char:EOLhyphen"/>on, unless they timely and truly re<g ref="char:EOLhyphen"/>pent.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="13" type="lesson">
+               <head>Of the Sacraments in general. <hi>The Thirteenth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is the first thing ne<g ref="char:EOLhyphen"/>cessary for a Christian?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>The holy Sacraments of the Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is a Sacraments?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>A Sacrament is a sacred, outward, and visible sign, instituted by our Saviour, to signifie a thing
+<pb n="21" facs="tcp:205421:14"/>sacred, inward, and invisible.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many Sacraments are there?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Seven, to wit, Baptism, Con<g ref="char:EOLhyphen"/>firmation, Penance, Eucharist, Ex<g ref="char:EOLhyphen"/>treme Unction, Order, and Marri<g ref="char:EOLhyphen"/>age.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Wherefore did our Saviour institute these Sacraments?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>To cure us from sin, to san<g ref="char:EOLhyphen"/>ctifie our souls, to apply to us the fruits and merits of his Passion, and to communicate unto us his Grace.</p>
+               </sp>
+            </div>
+            <div n="14" type="lesson">
+               <head>Of the Sacraments of Baptism, and Con<g ref="char:EOLhyphen"/>firmation. <hi>The Fourteenth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What doth the Sacrament of Baptism work in us?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>It blots out original sin, wherein we were all born, makes us Christians, Children of God, heirs of Paradise, and fills our souls with
+<pb n="22" facs="tcp:205421:15"/>grace and spiritual gifts.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What doth the Sacrament of Confirmation effect in us?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>It affords us strength and courage, to profess constantly that Faith we received before in our Bap<g ref="char:EOLhyphen"/>tism.</p>
+               </sp>
+            </div>
+            <div n="15" type="lesson">
+               <head>Of the Sacrament of Penance. <hi>The Fifteenth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What benefit receive we by the Sacrament of Penance or Confes<g ref="char:EOLhyphen"/>sion?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>We receive thereby the re<g ref="char:EOLhyphen"/>mission of our sins committed after Baptism.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many things are neces<g ref="char:EOLhyphen"/>sary for a sinner to become a true peni<g ref="char:EOLhyphen"/>tent?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Three: (1) Contrition of heart. (2) Confession of mouth to an approved and impowred Priest. (3) Sarisfaction by good works.</p>
+                  <pb n="23" facs="tcp:205421:15"/>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What must one do in particu<g ref="char:EOLhyphen"/>lar to confess well and worthily?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>He must do three things. (1) He must endeavour to call all his sins to his memory, by exami<g ref="char:EOLhyphen"/>ning himself upon the Command<g ref="char:EOLhyphen"/>ments of God and the Church, and upon the mortal sins. (2) he must conceive a hearty sorrow for them, and make a firm purpose to shun them for the future. (3) he must confess them all, without willingly conceal<g ref="char:EOLhyphen"/>ing any one, which he fears is mor<g ref="char:EOLhyphen"/>tal, and perform his enjoyned Pe<g ref="char:EOLhyphen"/>nance.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>In what manner do you make your Confession?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>I cast my self humbly on my knees at the feet of my Ghostly Father, and having signed my self with the holy Cross, I ask his bles<g ref="char:EOLhyphen"/>sing in English, (because as yet I am unskilful in the Latin language) saying, <hi>I crave your blessing,</hi> which re<g ref="char:EOLhyphen"/>reived, I thus proceed.</p>
+                  <p>I confess unto Almighty God, to
+<pb n="24" facs="tcp:205421:16"/>the Blessed Virgin <hi>Mary,</hi> to blessed <hi>Michael</hi> the Arch angel, to blessed <hi>John Baptist,</hi> to the holy Apostles <hi>Peter</hi> and <hi>Paul,</hi> to all the Saints, and to you my ghostly Father; that I have very much sinned in thought, word, and deed, through my fault, through my fault, through my ex<g ref="char:EOLhyphen"/>ceeding great fault.</p>
+                  <p>Then I say, I accuse my self, that since my last Confession (which was so long ago) I have done this, omit<g ref="char:EOLhyphen"/>ted this, <hi>&amp;c.</hi> And having briefly and clearly declared what I can remember, I thus conclude my Confession.</p>
+                  <p>For these and all other my sins and imperfections, I am heartily sorry, and purpose amendment; humbly begging pardon of God, and Penance, and Absolution of you my ghostly Father.</p>
+                  <p>Therefore, I beseech thee, Blessed Virgin <hi>Mary,</hi> blessed <hi>Michael</hi> the Arch-Angel, blessed <hi>John Baptist,</hi> the holy Apostles <hi>Peter</hi> and <hi>Paul,</hi> all the Saints, and you my ghostly Father,
+<pb n="25" facs="tcp:205421:16"/>to pray unto our Lord God for me.</p>
+                  <p>Having listned attentively to his counsel, accepted willingly the Pe<g ref="char:EOLhyphen"/>nance, and received feelingly the Absolution; I quietly retire my self to perform my enjoyned satisfaction, and to prepare my self to receive the holy Sacrament.</p>
+               </sp>
+            </div>
+            <div n="16" type="lesson">
+               <head>Of the Sacrament of the Eucharist. <hi>The sixteenth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is your belief concerning the Eucharist, or most holy Sacrament of the Altar?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>I believe it is the true Body and Blood of our Lord Jesus, hidden under those visible elements of Bread and Wine, according to the condition of a Sacrament; where the Truth must be invisible, and the Sign visible.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Doth the substance of the Bread and Wine remain after Consecration?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>No; but only the accidents
+<pb n="26" facs="tcp:205421:17"/>or qualities: for by vertue of those sa<g ref="char:EOLhyphen"/>cred words which the Priest hath pro<g ref="char:EOLhyphen"/>nounced in saying Mass, the Bread is changed into our Saviours body, and the Wine into his blood.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is the Mass?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>It is the unbloody Sacrifice of the Body and Blood of our Saviour Christ Jesus, (lively representing the bloody sacrifice of the Cross) offered up to Almighty God for the salvation of all faithful Christians both living and departed. Whence it appears, with how great devotion and reve<g ref="char:EOLhyphen"/>rence we ought to assist at it.</p>
+               </sp>
+            </div>
+            <div n="17" type="lesson">
+               <head>Of receiving the holy Communion. <hi>The seventeenth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Should Christians frequently receive the holy Sacrament of the Altar?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Yes, such as are worthy and capable; because it unites us to God, preserves us from sin, and imparts un<g ref="char:EOLhyphen"/>to
+<pb n="27" facs="tcp:205421:17"/>us many other gifts and graces.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What must one do to commu<g ref="char:EOLhyphen"/>nicate worthily?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>He must have his Conscience free from all sin, especially mortal; and therefore he must first have re<g ref="char:EOLhyphen"/>course to Confession: For whoso re<g ref="char:EOLhyphen"/>ceives this most holy Sacrament in mortal Sin, receives (<hi>Judas</hi>-like) his own damnation.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What outward Preparation is necessary for a Communicant?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>In the first place, he must be sure to be Fasting; that is, to have swallowed nothing (except his own spittle) since midnight. 2. He must be neat and cleanly in his apparel, be it never so mean and poor. 3. He must be religiously grave and modest in his whole carriage and comportment.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How must he behave himself in receiving the Blessed Sacrament?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>He must place himself upon both his knees at a convenient dist<g ref="char:EOLhyphen"/>ance from the Altar, keeping his Bo<g ref="char:EOLhyphen"/>dy
+<pb n="28" facs="tcp:205421:18"/>erected, his Head unmoved, his Eyes fixed on the Blessed Sacrament, his Hands joyned under the Linnen-cloath which he holds before him, his Lips quiet, his Mouth modestly opened, and the tip of his Tongue touching his neather Lip; that so the Priest may without trouble place the sacred Host upon it.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What must he do after he hath received it?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Having conveyed the sacred Host, (without chewing it) by the help of his Tongue, into his Sto<g ref="char:EOLhyphen"/>mack; he takes a small quantity of Wine, or any other liquor to moist<g ref="char:EOLhyphen"/>en and wash his mouth, or (if need so requires) to help him to swal<g ref="char:EOLhyphen"/>low down the holy Sacrament: And kneeling still untill the Priest hath given the last solemn Benedi<g ref="char:EOLhyphen"/>ction; he then arises, returns to his place, renews his ardent pray<g ref="char:EOLhyphen"/>ers and affections, and passes the re<g ref="char:EOLhyphen"/>sidue of that day in fervent devo<g ref="char:EOLhyphen"/>tion.</p>
+               </sp>
+            </div>
+            <div n="18" type="lesson">
+               <pb n="29" facs="tcp:205421:18"/>
+               <head>Of the Sacraments of Extreme Unction, Order, and Marriage. <hi>The Eighteenth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What benefit receive we by Extreme Unction?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Childe.</speaker>
+                  <p>It cleanseth our Souls from Sin, comforts us in our sickness, en<g ref="char:EOLhyphen"/>courages us against despair, strength<g ref="char:EOLhyphen"/>ens us in deaths agony against our ghostly enemy, and restores us to our corporal health, when it is ex<g ref="char:EOLhyphen"/>pedient for us.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is the Sacrament of Order?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>It is a Sacrament whereby Priests receive power from their Bishops, to consecrate the precious Body of our Saviour, to absolve their Penitents in Confession, and to do divers other things by vertue of their office, wherein they must be obeyed by such as are under their charge.</p>
+               </sp>
+               <pb n="30" facs="tcp:205421:19"/>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is the Sacrament of Mar<g ref="char:EOLhyphen"/>riage?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>It is a Sacrament, where Man and Woman joyn themselves together, by a faithfull, mutual, and indissoluble promise, in the face of the Church; in order to the law<g ref="char:EOLhyphen"/>full having of children, and the a<g ref="char:EOLhyphen"/>voiding of Fornication.</p>
+               </sp>
+            </div>
+            <div n="19" type="lesson">
+               <head>
+                  <hi>Of Good Works.</hi> The Nineteenth Lesson.</head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>What is the Fifth thing ne<g ref="char:EOLhyphen"/>cessary for a Christian?</p>
+               </sp>
+               <sp>
+                  <speaker>Child,</speaker>
+                  <p>
+                     <hi>Good Works: for after one is come to the age of discretion, Faith alone sufficeth not to salvation without Good Works.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>How many Good Works are there?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>Three: Prayer, Fasting, and Alms.</hi>
+                  </p>
+               </sp>
+               <pb n="31" facs="tcp:205421:19"/>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>How many sorts of Alms, or works of Mercy are there?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>There are seven Spiritual, and seven Corporal.</hi>
+                  </p>
+               </sp>
+               <p>
+                  <hi>The seven Spiritual works of Mercy.</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> To teach the Ignorant.</item>
+                     <item>
+                        <hi>2.</hi> To correct Sinners</item>
+                     <item>
+                        <hi>3.</hi> To give Counsel to such as want it.</item>
+                     <item>
+                        <hi>4.</hi> To comfort the afflicted.</item>
+                     <item>
+                        <hi>5,</hi> To suffer troublesome persons with patience.</item>
+                     <item>
+                        <hi>6.</hi> To forgive such as have of<g ref="char:EOLhyphen"/>fended us.</item>
+                     <item>
+                        <hi>7.</hi> To pray for the living and the dead.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>The Se<g ref="char:EOLhyphen"/>ven Cor<g ref="char:EOLhyphen"/>poral works of Mercy.</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> To give food to the Hungry.</item>
+                     <item>
+                        <hi>2.</hi> To give drink to the Thirsty.</item>
+                     <item>
+                        <hi>3.</hi> To cloath the Naked</item>
+                     <item>
+                        <hi>4.</hi> To visit the Sick and Pri<g ref="char:EOLhyphen"/>soners.</item>
+                     <item>
+                        <hi>5.</hi> To comfort the comfortless.</item>
+                     <item>
+                        <hi>6.</hi> To ransom Slaves and Cap<g ref="char:EOLhyphen"/>tives.</item>
+                     <item>
+                        <hi>7.</hi> To bury the Dead.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="20" type="lesson">
+               <pb n="32" facs="tcp:205421:20"/>
+               <head>Of the Virtues, and of the Gifts and Fruits of the Holy Ghost. <hi>The Twentieth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>How many Virtues are there?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>There are three Theological, and four Cardinal.</hi>
+                  </p>
+               </sp>
+               <p>
+                  <hi>The 3 The<g ref="char:EOLhyphen"/>ological Virtues are</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> Faith.</item>
+                     <item>
+                        <hi>2.</hi> Hope.</item>
+                     <item>
+                        <hi>3.</hi> Charity.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>The four Cardinal Virtues are,</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> Prudence.</item>
+                     <item>
+                        <hi>2.</hi> Justice.</item>
+                     <item>
+                        <hi>3.</hi> Temperance.</item>
+                     <item>
+                        <hi>4.</hi> Constancy.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>The seven Gifts of the Holy Ghost, are</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> Wisdome.</item>
+                     <item>
+                        <hi>2.</hi> Understanding.</item>
+                     <item>
+                        <hi>3.</hi> Counsel.</item>
+                     <item>
+                        <hi>4.</hi> Strength.</item>
+                     <item>
+                        <hi>5.</hi> Knowledge.</item>
+                     <item>
+                        <hi>6.</hi> Piety.</item>
+                     <item>
+                        <hi>7.</hi> The Fear of God.</item>
+                  </list>
+               </p>
+               <pb n="33" facs="tcp:205421:20"/>
+               <p>The Twelve Fruits of the Holy Ghost, are,
+<list>
+                     <item>
+                        <hi>1.</hi> Charity. </item>
+                     <item>
+                        <hi>2.</hi> Joy. </item>
+                     <item>
+                        <hi>3.</hi> Peace </item>
+                     <item>
+                        <hi>4.</hi> Patience. </item>
+                     <item>
+                        <hi>5.</hi> Longanimi<g ref="char:EOLhyphen"/>ty. </item>
+                     <item>
+                        <hi>6.</hi> Goodness. </item>
+                     <item>
+                        <hi>7.</hi> Benig<g ref="char:EOLhyphen"/>nity. </item>
+                     <item>
+                        <hi>8.</hi> Meekness. </item>
+                     <item>
+                        <hi>9.</hi> Fi<g ref="char:EOLhyphen"/>delity. </item>
+                     <item>
+                        <hi>10.</hi> Modesty. </item>
+                     <item>
+                        <hi>11.</hi> Con<g ref="char:EOLhyphen"/>tinency. </item>
+                     <item>
+                        <hi>12.</hi> Chastity.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="21" type="lesson">
+               <head>Of the Eight Beatitudes, and four Last things. <hi>The One and twentieth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>How many are the Beatitudes, taught by our Blessed Saviour in the Go<g ref="char:EOLhyphen"/>spel?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>They are Eight; to wit,</hi>
+                     <list>
+                        <item>
+                           <hi>1.</hi> Blessed are the poor in spirit; for theirs is the Kingdom of Heaven.</item>
+                        <item>
+                           <hi>2.</hi> Blessed are they that mourn; for they shall be comforted.</item>
+                        <item>
+                           <hi>3.</hi> Blessed are the meek; for they shall inherit the earth.</item>
+                        <item>
+                           <hi>4.</hi> Blessed are they who hunger and thirst after Justice; for they shall be filled.</item>
+                        <pb n="34" facs="tcp:205421:21"/>
+                        <item>
+                           <hi>5.</hi> Blessed are the mercifull; for they shall obtain mercy.</item>
+                        <item>
+                           <hi>6.</hi> Blessed are the pure in heart; for they shall see God.</item>
+                        <item>
+                           <hi>7.</hi> Blessed are the Peace makers; for they shall be called the children of God.</item>
+                        <item>
+                           <hi>8.</hi> Blessed are they who suffer persecu<g ref="char:EOLhyphen"/>tion for Justice sake; for theirs is the Kingdom of Heaven.</item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>How many are those, which are called the last things of Man? and which being remembred, deter us from sin?</p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>
+                     <hi>They are these four</hi>
+                     <list>
+                        <item>
+                           <hi>1.</hi> Death.</item>
+                        <item>
+                           <hi>2.</hi> Judgement.</item>
+                        <item>
+                           <hi>3.</hi> Hell.</item>
+                        <item>
+                           <hi>4.</hi> Heaven.</item>
+                     </list>
+                  </p>
+               </sp>
+            </div>
+            <div n="22" type="lesson">
+               <head>Of Sin in general, and of Mortal and Venial Sin. <hi>The two and twentieth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What ought a Christian strive chiefly to avoid?</hi>
+                  </p>
+               </sp>
+               <pb n="35" facs="tcp:205421:21"/>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Sin, as being the chief cause of the greatest evil that can befal him, to wit, eternal damnation.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What is sin?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>A sin is whatsoever is wil<g ref="char:EOLhyphen"/>fully spoken, done, or desired, a<g ref="char:EOLhyphen"/>gainst the Law of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many sorts of sins are there?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Two; to wit, Original sin, which we bring with us, from our first Parents, when we are born; and Actual sin, which we our selves commit after we have the use of rea<g ref="char:EOLhyphen"/>son.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many are the sorts of Actual sin?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Two; Mortal sin, and Veni<g ref="char:EOLhyphen"/>al sin.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many are the sorts of Mortal sins, which are otherwise called Capital, and Deadly sins?</hi>
+                  </p>
+               </sp>
+               <pb n="36" facs="tcp:205421:22"/>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>The Mor<g ref="char:EOLhyphen"/>tal sins are seven,
+<list>
+                        <item>1. <hi>Pride.</hi>
+                        </item>
+                        <item>2. <hi>Covetousness.</hi>
+                        </item>
+                        <item>3. <hi>Carnality.</hi>
+                        </item>
+                        <item>4. <hi>Envy.</hi>
+                        </item>
+                        <item>5. <hi>Gluttony.</hi>
+                        </item>
+                        <item>6. <hi>Anger.</hi>
+                        </item>
+                        <item>7. <hi>Sloath.</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <p>The se<g ref="char:EOLhyphen"/>ven Vir<g ref="char:EOLhyphen"/>tues, con<g ref="char:EOLhyphen"/>trary to these se<g ref="char:EOLhyphen"/>ven sins, are,
+<list>
+                        <item>1. <hi>Humility.</hi>
+                        </item>
+                        <item>2. <hi>Liberality.</hi>
+                        </item>
+                        <item>3. <hi>Chastity.</hi>
+                        </item>
+                        <item>4. <hi>Brotherly love.</hi>
+                        </item>
+                        <item>5. <hi>Temperance.</hi>
+                        </item>
+                        <item>6. <hi>Patience.</hi>
+                        </item>
+                        <item>7. <hi>Diligence.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Why are they called Mortal, Deadly and Capital?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Because they kill our souls, and are the Heads, Sources, and Roots of all other sins.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What hurt doth Venial sin unto us?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Though it kills not our Soul, yet it cools our zeal in Gods love and
+<pb n="37" facs="tcp:205421:22"/>service; and therefore ought carefully to be avoided.</p>
+               </sp>
+            </div>
+            <div n="23" type="lesson">
+               <head>Of the Sins against the Holy Ghost; of the Crying sins; and of sins by Par<g ref="char:EOLhyphen"/>ticipation. <hi>The three and Twentieth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many, and which, are the sins against the Holy Ghost?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Six,
+<list>
+                        <item>1. <hi>Presumption of Gods mer<g ref="char:EOLhyphen"/>cy.</hi>
+                        </item>
+                        <item>2. <hi>Despair of Salvation.</hi>
+                        </item>
+                        <item>3. <hi>Resistance of the known Truth.</hi>
+                        </item>
+                        <item>4. <hi>Envying at anothers spi<g ref="char:EOLhyphen"/>ritual good.</hi>
+                        </item>
+                        <item>5. <hi>Continuing obstinate in sin.</hi>
+                        </item>
+                        <item>6. <hi>Dying finally impenitent.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+               <pb n="38" facs="tcp:205421:23"/>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many are the sins which cry to Heaven for vengeance?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Four,
+<list>
+                        <item>1. Wilful Murder.</item>
+                        <item>2. Sodomy.</item>
+                        <item>3. Oppression of the Poor, Orphans, and Widows.</item>
+                        <item>4. Defrauding Laborers of their Wages.</item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How many ways may one sin by Participation?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Nine ways,
+<list>
+                        <item>1. By Counsel.</item>
+                        <item>2. By Com<g ref="char:EOLhyphen"/>mand. </item>
+                        <item>3. By Consent. </item>
+                        <item>4. By Provocation. </item>
+                        <item>5. By Praise or Flattery.</item>
+                        <item>6. By Silence. </item>
+                        <item>7. By Connivence. </item>
+                        <item>8. By sharing in the Fact.</item>
+                        <item>9. By defending the Fact and Fault.</item>
+                     </list>
+                  </p>
+               </sp>
+            </div>
+            <div n="24" type="lesson">
+               <pb n="39" facs="tcp:205421:23"/>
+               <head>Of the Rosary, and how to recite it. <hi>The four and twentieth Lesson.</hi>
+               </head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Do you use to say your Beads?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Yes; I recite the whole Rosa<g ref="char:EOLhyphen"/>ry once every week, meditating as well as I can upon the Fifteen Mysteries, which contain in short, the Life and Death of our Lord Jesus.</p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Which are the Fifteen Myste<g ref="char:EOLhyphen"/>ries of the Rosary?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>The first five are called <hi>Joyful Mysteries,</hi> to wit,
+<list>
+                        <item>1. The Annunciation of Christs In<g ref="char:EOLhyphen"/>carnation, by the Arch-Angel <hi>Gabriel,</hi> to the Blessed Virgin <hi>Mary.</hi>
+                        </item>
+                        <item>2. The Visitation which the Blessed Virgin made to her Cousin St. <hi>Eliza<g ref="char:EOLhyphen"/>beth.</hi>
+                        </item>
+                        <item>3. The Nativity of our Lord Jesus Christ.</item>
+                        <item>4. The Oblation and Presentation of Christ to his eternal Father in the
+<pb n="40" facs="tcp:205421:24"/>Temple, and the Purification of his blessed Mother.</item>
+                        <item>5. The finding of Christ in the Tem<g ref="char:EOLhyphen"/>ple disputing with the Doctors, when he was Twelve years old.</item>
+                     </list>
+                  </p>
+                  <p>The second five are called <hi>Dolorous Mysteries;</hi> to wit,
+<list>
+                        <item>1. The Bloody Agony of Christ whilst he was at his Prayers in the Garden.</item>
+                        <item>2. The most cruel Whipping of Christ at the Pillar.</item>
+                        <item>3. The Crowning of his Head with Thorns.</item>
+                        <item>4. The carrying of his Cross to Mount <hi>Calvary.</hi>
+                        </item>
+                        <item>5. His Crucifixion and Death upon the Cross.</item>
+                     </list>
+                  </p>
+                  <p>The last five are called <hi>Glorious My<g ref="char:EOLhyphen"/>steries,</hi> to wit,
+<list>
+                        <item>1. The Resurrection of our Lord Jesus.</item>
+                        <item>2. His Ascension into Heaven.</item>
+                        <pb n="41" facs="tcp:205421:24"/>
+                        <item>3. His sending down the Holy Ghost to his Church.</item>
+                        <item>4. The Assumption of the Blessed Virgin <hi>Mary</hi> up to Heaven.</item>
+                        <item>5. The Coronation of the Blessed Virgin in Heaven.</item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How can you remember all these holy Mysteries?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>I have three Verses at my fin<g ref="char:EOLhyphen"/>gers end, which put me in minde of them.</p>
+                  <p>The first Verse for the <hi>Five Joyful Mysteries.</hi>
+                  </p>
+                  <p>
+                     <hi>She's told, She visits, He's born, Offer'd, and Found.</hi>
+                  </p>
+                  <p>The second Verse for the <hi>Five Dolo<g ref="char:EOLhyphen"/>rous Mysteries.</hi>
+                  </p>
+                  <p>
+                     <hi>He Prays, is Scourg'd, is Crown'd, Carries, is Kill'd.</hi>
+                  </p>
+                  <p>The third Verse for the <hi>Five Glori<g ref="char:EOLhyphen"/>ous Mysteries.</hi>
+                  </p>
+                  <p>
+                     <hi>Rises, Ascends, Sends down, She dies, is Crown'd.</hi>
+                  </p>
+               </sp>
+               <pb n="42" facs="tcp:205421:25"/>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What method do you use in the actual recital of the Rosary?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p n="1">(1) I place my self reverent<g ref="char:EOLhyphen"/>ly in the divine presence.</p>
+                  <p n="2">(2) Then taking my Beads by the Cross, I bless my self, saying, <hi>In the Name of the Father, and of the Son, and of the Holy Ghost, Amen.</hi> And begin my Rosary with the Profession of my Faith, <hi>I believe in God, &amp;c.</hi>
+                  </p>
+                  <p n="3">(3) The Creed being ended, I recite thrice the <hi>Hail Mary,</hi> upon the three grains placed at the head of my Beads, saluting the Sacred Virgin in honour of her three singular Prerogatives, of being (1) <hi>Daughter of the Eternal Fa<g ref="char:EOLhyphen"/>ther.</hi> (2) <hi>Mother of the Eternal Son.</hi> (3) <hi>Spouse of the Holy Ghost.</hi>
+                  </p>
+                  <p n="4">(4) Then reflecting upon the first Mystery, I say, <hi>Our Father and ten Hail Maries;</hi> and so passe on to the second <hi>Our Father.</hi>
+                  </p>
+                  <p n="5">(5) And having compleated the Five Tens, (which make one part of the Rosary) I conclude as I began with the <hi>Creed,</hi> and the sign of the <hi>Cross.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="25" type="lesson">
+               <pb n="43" facs="tcp:205421:25"/>
+               <head>Of the Morning Exercise. The five and Twentieth Lesson.</head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>How do you behave your self, as soon as you awake in the Morning?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>I sign my self with the ho<g ref="char:EOLhyphen"/>ly Cross, saying, <hi>In the Name of the Father, and of the Son, and of the Holy Ghost. Amen.</hi> And with hands and eyes lifted up towards Heaven, I add these words: <hi>Be you ever blessed, praised, and honored, O Sacred and un<g ref="char:EOLhyphen"/>divided Trinity! by me, and by all Crea<g ref="char:EOLhyphen"/>tures.</hi>
+                  </p>
+                  <p>Then shaking off sloath, I nimbly put on my cloaths, entertaining my self all the while with some pious Thoughts, and saying such Prayers as I have in my memory.</p>
+                  <p>Being clad, I cast my self devout<g ref="char:EOLhyphen"/>ly upon my knees before the Picture of the Crucifix, (which I have al<g ref="char:EOLhyphen"/>ways in my Chamber) and there I Sacrifice to my Creator, the first-fruits
+<pb n="44" facs="tcp:205421:26"/>of the day, by making briefly these five Acts of Adoration, Thanks<g ref="char:EOLhyphen"/>giving, Oblation, Protestation, and Petition, saying.
+<list>
+                        <item>1. <hi>I adore you</hi> (O my Omnipo<g ref="char:EOLhyphen"/>tent Creator!) <hi>from the very depth of my heart and soul.</hi>
+                        </item>
+                        <item>2. <hi>I render all possible thanks to your infinite goodness, for all your gracious fa<g ref="char:EOLhyphen"/>vors, especially for this past Nights pre<g ref="char:EOLhyphen"/>servation.</hi>
+                        </item>
+                        <item>3. <hi>I offer to your Divine Majesty, all that is gratefull unto you, in supply of my ingratitude and indignity.</hi>
+                        </item>
+                        <item>4. <hi>I protest and promise amendment of my life from this day forward.</hi>
+                        </item>
+                        <item>5. <hi>Lastly, I humbly beg Grace to a<g ref="char:EOLhyphen"/>void sin and scandal, and to walk upright<g ref="char:EOLhyphen"/>ly in your presence this day following, and all the days of my life.</hi>
+                        </item>
+                     </list>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>Do you perform this Exercise punctually every Morning?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>Yes; I always perform thus much before I stir forth of my Cham<g ref="char:EOLhyphen"/>ber; for it being very short, no af<g ref="char:EOLhyphen"/>fair, (of how great importance so<g ref="char:EOLhyphen"/>ever)
+<pb n="45" facs="tcp:205421:26"/>can be thereby hurt or hin<g ref="char:EOLhyphen"/>dred. But when I am not straitned in time, I never omit to add to the former Exercise, these following Prayers.</p>
+               </sp>
+               <div type="prayer">
+                  <head>The Lords Prayer.</head>
+                  <p>OUr Father which art in Heaven. Hallowed be thy Name. Thy Kingdom come; thy will be done in Earth, as it is in Heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive them that trespass against us. And lead us not into temptation, but deliver us from evil. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>The Ave Maria.</head>
+                  <p>HAil <hi>Mary,</hi> full of grace, our Lord is with thee; blessed art thou a<g ref="char:EOLhyphen"/>mongst women, and blessed is the fruit of thy Womb, Jesus.</p>
+                  <p>Holy <hi>Mary,</hi> Mother of God, pray for us sinners now, and in the hour of our death. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <pb n="46" facs="tcp:205421:27"/>
+                  <head>The Creed.</head>
+                  <p>I Believe in God the Father Almigh<g ref="char:EOLhyphen"/>ty, Creator of Heaven and Earth, and in Jesus Christ his onely Son our Lord, who was conceived of the Holy Ghost, Born of the Virgin <hi>Mary,</hi> suf<g ref="char:EOLhyphen"/>fered under <hi>Pontius Pilat,</hi> was crucifi<g ref="char:EOLhyphen"/>ed, dead and buried: He descended in<g ref="char:EOLhyphen"/>to Hell, and rose again the third day from the dead; he ascended into Hea<g ref="char:EOLhyphen"/>ven, and sitteth at the right hand of God the Father Almighty; from thence he shall come to judge the living and the dead. I believe in the Holy Ghost, The holy Catholick Church, The Communion of Saints, The Remission of Sins, The Resurrection of the Flesh, and Life everlasting. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer to my Angel-Guardian.</head>
+                  <p>BLessed Angel! to whose care and custody our loving Lord hath com<g ref="char:EOLhyphen"/>mitted me: Defend me this day (I be<g ref="char:EOLhyphen"/>seech you) from all dangers, and di<g ref="char:EOLhyphen"/>rect me in the way I ought to walk.</p>
+               </div>
+               <div type="prayer">
+                  <pb n="47" facs="tcp:205421:27"/>
+                  <head>A Prayer to the Saint, whose Name I bear.</head>
+                  <p>GLorious Saint <hi>N.</hi> whom the di<g ref="char:EOLhyphen"/>vine Providence hath allotted for my Pattern upon Earth, and for my Patron in Heaven. Obtain (I beseech you) for me your poor Pupil, so to imitate here your Virtues, that I may hereafter be made partaker of your Glory.</p>
+                  <p>This done, I recite other Prayers (as my time permits, and my devoti<g ref="char:EOLhyphen"/>on suggests, especially upon Sundays and Holidays) wherewith the Prim<g ref="char:EOLhyphen"/>mer, the Manual, the Daily Exercise of the devout Christian, and other pi<g ref="char:EOLhyphen"/>ous Books, abundantly furnish me.</p>
+               </div>
+            </div>
+            <div n="26" type="lesson">
+               <head>Of the Evening Exercise. The six and twentieth Lesson.</head>
+               <sp>
+                  <speaker>Father.</speaker>
+                  <p>
+                     <hi>What do you at Night before you go to Bed?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Child.</speaker>
+                  <p>In the first place, I render humble and hearty thanks to God for all his benefits; and namely, for them I received that day.</p>
+                  <pb n="48" facs="tcp:205421:28"/>
+                  <p>In the second place, I enter into a serious examination of my Conscience, considering what sins I have commit<g ref="char:EOLhyphen"/>ted that day against God, my Neigh<g ref="char:EOLhyphen"/>bour, or my self, in thought, word, or deed, and wherein I have omitted my duty; asking him pardon, and purposing to amend all that is amiss, and to confess what I finde most ma<g ref="char:EOLhyphen"/>terial.</p>
+                  <p>In the third place, I beseech the Di<g ref="char:EOLhyphen"/>vine Majesty, that he will be gracious<g ref="char:EOLhyphen"/>ly pleased to preserve me the night fol<g ref="char:EOLhyphen"/>lowing from all dangers, that I may rise in the Morning to serve him more faithfully.</p>
+                  <p>Then I recite the <hi>Pater</hi> and <hi>Ave,</hi> re<g ref="char:EOLhyphen"/>commend my self to my Angel-Guar<g ref="char:EOLhyphen"/>dian, and to my particular Patron, as in the Morning Exercise.</p>
+                  <p>Lastly, I modestly uncloath my self, and quietly compose my body to take its rest, with good thoughts in my minde, and the sweet Names of Jesus; <hi>Maria,</hi> in my mouth.</p>
+               </sp>
+               <div type="prayer">
+                  <pb n="49" facs="tcp:205421:28"/>
+                  <head>Grace before Meat.</head>
+                  <p>BLesse us, O Lord, and these thy Gifts which we are to receive of thy bounty, Through Christ our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="prayer">
+                  <head>Grace after Meat.</head>
+                  <p>WE give thee thanks, O Al<g ref="char:EOLhyphen"/>mighty God, for all thy be<g ref="char:EOLhyphen"/>nefits, who livest and reignest world without end. <hi>Amen.</hi>
+                  </p>
+                  <p>God save his Church, our King, the Queen, and all the Realms, and send us peace in Christ our Lord. <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>The end of the Child's Catechism.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
